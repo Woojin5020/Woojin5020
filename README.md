@@ -1,16 +1,21 @@
-## Hi there 👋
+# 황치영 프로필 👨‍💻
 
-<!--
-**Woojin5020/Woojin5020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+임베디드 소프트웨어 개발자를 꿈꾸는 황치영입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 기술 스택
+
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-0076D6?style=flat&logo=STMicroelectronics&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=internet-explorer&logoColor=white)
+
+---
