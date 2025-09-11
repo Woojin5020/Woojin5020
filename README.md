@@ -1,7 +1,4 @@
-# 🙋‍♂️ 서우진 (Seo Woojin) — Embedded & AI Engineer
-
-임베디드 하드웨어(STM32, Raspberry Pi, Jetson)와 드라이버/커널 레벨 개발, 그리고 OpenCV / PyTorch 기반 AI 응용을 주로 다룹니다.  
-아래 배지는 실제로 사용하거나 자신있게 다룰 수 있는 기술만 모아놓았습니다.
+# 🙋‍♂️ 서우진 (Seo Woojin) — Embedded Engineer
 
 <!-- 기술 스택 배지 -->
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
