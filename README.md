@@ -24,5 +24,5 @@
 
 ## My Projects 
 
-### [1. Project_SmartDoorLock](https://github.com/Woojin5020/Quadruped-Robot) 
+### [1. Quadruped-Robot](https://github.com/Woojin5020/Quadruped-Robot) 
 - 4족 보행 로봇 동작 구현
