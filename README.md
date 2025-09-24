@@ -24,5 +24,11 @@
 
 ## My Projects 
 
-### [1. Quadruped-Robot](https://github.com/Woojin5020/Quadruped-Robot) 
+### [1. Smart Desk](https://github.com/KimMS-99/Smart-Desk)
+- AI를 활용한 Smart Desk
+
+### [2. Remote Band](https://github.com/Woojin5020/intel_7_openCV_mini_project_Remote_Band)
+- openCV 기반 악기(드럼,기타,피아노)로 원격 합주
+
+### [3. Quadruped-Robot](https://github.com/Woojin5020/Quadruped-Robot) 
 - 4족 보행 로봇 동작 구현
