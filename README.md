@@ -30,11 +30,12 @@ Email
 ![PyTorch](https://img.shields.io/badge/PyTorch-F14E32?style=flat-square&logo=pytorch&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FFB86B?style=flat-square)
 
----
 
-# My Projects 
 
-## [1. Smart Desk](https://github.com/KimMS-99/Smart-Desk)
+# My Projects
+
+### [Smart Desk](https://github.com/KimMS-99/Smart-Desk)
+
 AI를 활용한 Smart Desk
 
 [ My Part ]  
@@ -44,8 +45,10 @@ AI를 활용한 Smart Desk
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jetson Nano (NVIDIA)](https://img.shields.io/badge/Jetson_Nano-NVIDIA?style=flat-square&logo=nvidia&logoColor=white)
 
+---
 
-## [2. Remote Band](https://github.com/Woojin5020/intel_7_openCV_mini_project_Remote_Band)
+### [Remote Band](https://github.com/Woojin5020/intel_7_openCV_mini_project_Remote_Band)
+
 openCV 기반 악기(드럼,기타,피아노)로 원격 합주
 
 [ My Part ]  
@@ -53,9 +56,10 @@ openCV 기반 악기(드럼,기타,피아노)로 원격 합주
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
+---
 
+### [Quadruped-Robot](https://github.com/Woojin5020/Quadruped-Robot) 
 
-## [3. Quadruped-Robot](https://github.com/Woojin5020/Quadruped-Robot) 
 4족 보행 로봇 동작 구현
 
 [ My Part ]  
