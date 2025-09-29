@@ -1,5 +1,16 @@
 # 서우진 (Seo Woojin) — Embedded Engineer
 
+<div align="center">
+SNS
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/woojinseo)  
+
+
+
+Email  
+**woojinseo5020@gmail.com**
+
+---
 
 <!-- 기술 스택 배지 -->
 ##  Tech Stack
@@ -14,7 +25,6 @@
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=internet-explorer&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Device Drivers](https://img.shields.io/badge/Device_Drivers-blue?style=flat-square)
-![U-Boot](https://img.shields.io/badge/U_Boot-000000?style=flat-square&logo=udd?&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-F14E32?style=flat-square&logo=pytorch&logoColor=white)
@@ -25,10 +35,10 @@
 ## My Projects 
 
 ### [1. Smart Desk](https://github.com/KimMS-99/Smart-Desk)
-- AI를 활용한 Smart Desk
+AI를 활용한 Smart Desk
 
 ### [2. Remote Band](https://github.com/Woojin5020/intel_7_openCV_mini_project_Remote_Band)
-- openCV 기반 악기(드럼,기타,피아노)로 원격 합주
+openCV 기반 악기(드럼,기타,피아노)로 원격 합주
 
 ### [3. Quadruped-Robot](https://github.com/Woojin5020/Quadruped-Robot) 
-- 4족 보행 로봇 동작 구현
+4족 보행 로봇 동작 구현
