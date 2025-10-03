@@ -1,11 +1,9 @@
+<div align="center">
+  
 # 서우진 (Seo Woojin) — Embedded Engineer
 
-<div align="center">
-SNS
-
+SNS  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woojinseo)  
-
-
 
 Email  
 **woojinseo5020@gmail.com**
