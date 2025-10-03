@@ -47,6 +47,18 @@ AI를 활용한 Smart Desk
 
 ---
 
+### [스마트 화분(Plant-San)](https://github.com/wjin08/Plant_San)
+
+자동 급수, 조명 + 이용자 피드백 스마트 화분
+
+[ My Part ]  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+---
+
 ### [Remote Band](https://github.com/Woojin5020/intel_7_openCV_mini_project_Remote_Band)
 
 openCV 기반 악기(드럼,기타,피아노)로 원격 합주
