@@ -75,7 +75,6 @@ openCV 기반 악기(드럼,기타,피아노)로 원격 합주
 [ My Part ]  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-0076D6?style=flat&logo=STMicroelectronics&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
