@@ -78,8 +78,6 @@ openCV 기반 악기(드럼,기타,피아노)로 원격 합주
 
 ---
 
-# [진행중]
-
 ### [스쿨존 자율주행](https://github.com/whdtjr/autonomous-driving-project)
 
 V2X를 활용한 자율주행 자동차
