@@ -68,6 +68,18 @@ openCV 기반 악기(드럼,기타,피아노)로 원격 합주
 
 ---
 
+### [스쿨존 자율주행](https://github.com/whdtjr/autonomous-driving-project)
+
+V2X를 활용한 자율주행 자동차
+
+[ My Part ]  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-0076D6?style=flat&logo=STMicroelectronics&logoColor=white)
+![RockChip](https://img.shields.io/badge/Rock_5B(RK3588)-41CD52?style=flat&logo=internet-explorer&logoColor=white)
+![Protocol](https://img.shields.io/badge/CAN2.0_B-000000?style=flat&logo=internet-explorer&logoColor=white)
+
+---
+
 ### [Quadruped-Robot](https://github.com/Woojin5020/Quadruped-Robot) 
 
 4족 보행 로봇 동작 구현
@@ -78,12 +90,3 @@ openCV 기반 악기(드럼,기타,피아노)로 원격 합주
 
 ---
 
-### [스쿨존 자율주행](https://github.com/whdtjr/autonomous-driving-project)
-
-V2X를 활용한 자율주행 자동차
-
-[ My Part ]  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-0076D6?style=flat&logo=STMicroelectronics&logoColor=white)
-![RockChip](https://img.shields.io/badge/Rock_5B(RK3588)-41CD52?style=flat&logo=internet-explorer&logoColor=white)
-![Protocol](https://img.shields.io/badge/CAN2.0_B-000000?style=flat&logo=internet-explorer&logoColor=white)
